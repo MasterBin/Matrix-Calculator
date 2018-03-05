@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{730A370C-D28D-450F-B35F-1550307BE690}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Matrix_calculator/Program.cs">
+    <Files>
+      <File FileName="Matrix_calculator/Program.cs" Line="78" Column="1" />
+      <File FileName="MatrixParser/MyClass.cs" Line="11" Column="25" />
+      <File FileName="MatrixParser/Dispenser.cs" Line="44" Column="31" />
+      <File FileName="MatrixParser/Matrix_calculator.cs" Line="55" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Matrix__calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>../test_for_me_pls/test_for_me_pls/test_for_me_pls.csproj</String>
+  </DisabledProjects>
+</Properties>
