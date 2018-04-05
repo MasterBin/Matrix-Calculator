@@ -3,3 +3,8 @@
 /Users/nk/Documents/prog#/Matrix_calculator/MatrixParser/obj/Debug/MatrixParser.csproj.CoreCompileInputs.cache
 /Users/nk/Documents/prog#/Matrix_calculator/MatrixParser/obj/Debug/MatrixParser.dll
 /Users/nk/Documents/prog#/Matrix_calculator/MatrixParser/obj/Debug/MatrixParser.pdb
+/Users/nk/Documents/prog#/Matrix_calculator/Matrix-Calculator/MatrixParser/bin/Debug/MatrixParser.dll
+/Users/nk/Documents/prog#/Matrix_calculator/Matrix-Calculator/MatrixParser/bin/Debug/MatrixParser.pdb
+/Users/nk/Documents/prog#/Matrix_calculator/Matrix-Calculator/MatrixParser/obj/Debug/MatrixParser.csproj.CoreCompileInputs.cache
+/Users/nk/Documents/prog#/Matrix_calculator/Matrix-Calculator/MatrixParser/obj/Debug/MatrixParser.dll
+/Users/nk/Documents/prog#/Matrix_calculator/Matrix-Calculator/MatrixParser/obj/Debug/MatrixParser.pdb

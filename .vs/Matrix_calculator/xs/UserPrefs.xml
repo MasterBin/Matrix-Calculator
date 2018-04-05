@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{730A370C-D28D-450F-B35F-1550307BE690}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Matrix_calculator/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MatrixParser/Matrix_calculator.cs">
     <Files>
-      <File FileName="Matrix_calculator/Program.cs" Line="78" Column="1" />
+      <File FileName="Matrix_calculator/Program.cs" Line="66" Column="9" />
+      <File FileName="Matrix_calculator/bin/Debug/SetMatrixAndExpression.txt" Line="5" Column="13" />
       <File FileName="MatrixParser/MyClass.cs" Line="11" Column="25" />
-      <File FileName="MatrixParser/Dispenser.cs" Line="44" Column="31" />
+      <File FileName="MatrixParser/Dispenser.cs" Line="109" Column="1" />
       <File FileName="MatrixParser/Matrix_calculator.cs" Line="55" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>

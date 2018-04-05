@@ -6,3 +6,11 @@
 /Users/nk/Documents/prog#/Matrix_calculator/Matrix_calculator/bin/Debug/MatrixParser.dll
 /Users/nk/Documents/prog#/Matrix_calculator/Matrix_calculator/bin/Debug/MatrixParser.pdb
 /Users/nk/Documents/prog#/Matrix_calculator/Matrix_calculator/obj/x86/Debug/Matrix_calculator.csprojResolveAssemblyReference.cache
+/Users/nk/Documents/prog#/Matrix_calculator/Matrix-Calculator/Matrix_calculator/bin/Debug/Matrix_calculator.exe
+/Users/nk/Documents/prog#/Matrix_calculator/Matrix-Calculator/Matrix_calculator/bin/Debug/Matrix_calculator.pdb
+/Users/nk/Documents/prog#/Matrix_calculator/Matrix-Calculator/Matrix_calculator/bin/Debug/MatrixParser.dll
+/Users/nk/Documents/prog#/Matrix_calculator/Matrix-Calculator/Matrix_calculator/bin/Debug/MatrixParser.pdb
+/Users/nk/Documents/prog#/Matrix_calculator/Matrix-Calculator/Matrix_calculator/obj/x86/Debug/Matrix_calculator.csprojResolveAssemblyReference.cache
+/Users/nk/Documents/prog#/Matrix_calculator/Matrix-Calculator/Matrix_calculator/obj/x86/Debug/Matrix_calculator.csproj.CoreCompileInputs.cache
+/Users/nk/Documents/prog#/Matrix_calculator/Matrix-Calculator/Matrix_calculator/obj/x86/Debug/Matrix_calculator.exe
+/Users/nk/Documents/prog#/Matrix_calculator/Matrix-Calculator/Matrix_calculator/obj/x86/Debug/Matrix_calculator.pdb

@@ -63,7 +63,7 @@ class MainClass
 
     public static void Main(string[] args)
     {
-        strm = new StreamReader(new FileStream("/Users/nk/Desktop/Matrix_calculator.txt", FileMode.Open, FileAccess.Read));
+        strm = new StreamReader(new FileStream("SetMatrixAndExpression.txt", FileMode.Open, FileAccess.Read));
         try
         {
             Read_matrices();
@@ -86,7 +86,6 @@ class MainClass
         {
             Console.WriteLine("Невыполнимая операция!");
         }
-
 
     }
 }
@@ -114,3 +113,4 @@ Inverse(A)+Det((A+C)*D)+3-100   -  Gauss_view(A)
 //Inverse() - обратая матрица
 //Rang() - ранг матрицы
 //Length() - размер матрицы
+//Gauss_view() - треугольный вид
