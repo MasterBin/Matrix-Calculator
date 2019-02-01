@@ -1,11 +1,4 @@
-﻿//
-// Дисциплина: "Программирование"
-// Группа: 177ПИ/1
-// Студент: nk
-// Задача:
-//
-// Дата: 4.3.2018
-using System;
+﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 using Matrix_calculator;
